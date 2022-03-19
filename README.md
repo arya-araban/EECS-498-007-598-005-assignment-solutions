@@ -1,4 +1,4 @@
-# EECS-498-007-598-005-assignments
+# EECS-498-007-598-005-assignment solutions
 my solutions to the 2019 assignments of EECS 498-007/598-005
 
 ------
